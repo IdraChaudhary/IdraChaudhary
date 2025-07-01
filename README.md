@@ -1,4 +1,4 @@
-# 💻 Hi, I'm [Idra Chaudhary] 
+# 💻 Hi, I'm Idra Chaudhary 
 ### Data Analyst | Frontend Developer | AI Enthusiast
 
 <div align="center">
