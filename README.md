@@ -1,40 +1,52 @@
-<!-- Typing intro -->
+<!-- Fun intro GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Idra.;Engineer+who+codes+on+chai+and+curiosity.;I+build+data-driven+things+that+make+sense.">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80%" alt="Tech innovation">
 </p>
 
-<!-- Banner -->
+<!-- Typing intro -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="85%" alt="coding workspace">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Idra.;Engineer+with+a+knack+for+data+and+design.;Building+smart%2C+scalable%2C+and+human+tech.">
 </p>
 
 ---
 
 ### About Me  
-I like code that solves problems and chai that fuels late-night ideas.  
-Somewhere between data, design, and logic — that’s where I work best.  
-Not a “just ship it” kind of engineer; I believe in clarity, clean systems, and creative fixes.  
-Right now, I’m building things around **AI/ML**, **Data Analytics**, and **LIMS Tech** — making data less scary and more human.
+Engineer who believes in designing systems that think — and make people think.  
+I work across the intersection of **data, AI, and design**, where logic meets storytelling.  
+My approach is rooted in structure and creativity — solving complex problems and turning them into intuitive solutions.  
+A good cup of chai, clean code, and a well-defined dataset — that’s my idea of balance.  
+
+> Technology evolves fast — the fun part is learning faster.
+
+---
+
+### Current Focus  
+Right now, I’m exploring:  
+- **LIMS Automation:** creating smarter systems for healthcare and research data management  
+- **AI & Machine Learning:** building models that find meaning, not just accuracy  
+- **Product Thinking:** connecting data, design, and decisions for better user experiences  
+- **Scalable Full-Stack Development:** experimenting with modern frameworks to turn ideas into real products  
 
 ---
 
 ### Tech Stack  
-**Programming:** Python · C++ · Java · SQL  
-**AI & Data:** Pandas · NumPy · Scikit-learn · Power BI · Tableau · Excel Advanced Analytics  
-**Development:** React · HTML · CSS · JavaScript · Flask · Firebase · Android Studio  
-**Databases:** PostgreSQL · Oracle  
-**Tools:** Git · Docker · Google Analytics · SQL Server  
+**Languages:** Python · C++ · Java · SQL · JavaScript · TypeScript  
+**AI & Data:** Pandas · NumPy · Scikit-learn · TensorFlow · Power BI · Tableau · Excel Advanced Analytics · Google Analytics  
+**Backend:** Flask · Node.js · FastAPI  
+**Frontend:** React · Vite · HTML5 · CSS3 · Firebase · TailwindCSS  
+**Databases:** PostgreSQL · Oracle · MongoDB · SQL Server  
+**Tools & DevOps:** Git · Docker · Postman · VS Code · Android Studio  
+**Other Interests:** LIMS Systems · Product Design Thinking · Data Visualization  
 
 ---
 
 ### This Week Looked Like  
-Python ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 55%  
-React ▓▓▓▓▓▓▓░░░░░░░░░ 25%  
+Python ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 58%  
+React ▓▓▓▓▓▓▓▓░░░░░░░░ 24%  
 SQL ▓▓▓▓░░░░░░░░░░░░░░ 10%  
-Power BI ▓▓░░░░░░░░░░░░░ 7%  
-Chai ▓░░░░░░░░░░░░░░░░░ 3%  
+Design & Research ▓▓░░░░░░░░░░░░ 8%
 
-> The more the code breaks, the better the chai tastes.
+> Behind every clean dashboard, there’s a mess of logic that finally made sense — and probably a half-finished cup of chai next to it.
 
 ---
 
@@ -50,24 +62,12 @@ Chai ▓░░░░░░░░░░░░░░░░░ 3%
 
 ---
 
-### Stats that Spill the Chai  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IdraChaudhary&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IdraChaudhary&theme=tokyonight&hide_border=true" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IdraChaudhary&layout=compact&theme=tokyonight&hide_border=true" width="48%">
-</p>
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="85%" alt="coding night">
 </p>
 
 <p align="center">
-  <b>Code. Break. Learn. Repeat. The chai never runs out.</b>
+  <b>Think clearly. Build deliberately. Learn endlessly — preferably with chai in hand.</b>
 </p>
 
 
