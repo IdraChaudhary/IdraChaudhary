@@ -1,6 +1,6 @@
-<!-- Fun Intro Visual -->
+<!-- Intro Visual -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="70%" alt="innovation flow">
+  <img src="https://media.giphy.com/media/3o7TKsQK8c9xX3QO6s/giphy.gif" width="70%" alt="innovation flow">
 </p>
 
 <!-- Typing Intro -->
@@ -11,8 +11,8 @@
 ---
 
 ### About Me
-I’m **Idra Chaudhary** — an engineer, program manager, and occasional caffeine-fueled philosopher.  
-I thrive where **data meets design**, and **logic meets leadership**.  
+I’m **Idra Chaudhary** — an engineer, program manager, and caffeine enthusiast.  
+I thrive where **data meets design** and **logic meets leadership**.  
 My mantra: **clarity over complexity** — in code, systems, and life.  
 
 > Systems that make sense, stay relevant. Systems that don’t, break silently. 😎
@@ -24,7 +24,7 @@ My mantra: **clarity over complexity** — in code, systems, and life.
 - **Program Strategy:** aligning execution with measurable outcomes  
 - **AI & Automation:** building adaptive, interpretable intelligence  
 - **System Architecture:** simplifying complex systems at scale  
-- **Creative Engineering:** reasoning meets usability, sprinkled with fun  
+- **Creative Engineering:** reasoning meets usability  
 
 <p align="center">
   <img src="https://quickchart.io/chart?c={
@@ -34,11 +34,11 @@ My mantra: **clarity over complexity** — in code, systems, and life.
       datasets:[{
         label:'Focus',
         data:[92,88,84,80,76],
-        backgroundColor:'rgba(0,255,220,0.3)',
-        borderColor:'rgb(0,220,255)',
+        backgroundColor:'rgba(0,200,255,0.25)',
+        borderColor:'rgb(0,180,255)',
         borderWidth:3,
-        pointBackgroundColor:'rgb(0,200,255)',
-        pointBorderColor:'rgb(0,255,220)',
+        pointBackgroundColor:'rgb(0,255,200)',
+        pointBorderColor:'rgb(0,150,255)',
         pointRadius:8,
         pointHoverRadius:10
       }]
@@ -49,14 +49,14 @@ My mantra: **clarity over complexity** — in code, systems, and life.
       plugins:{legend:{display:false}},
       scales:{
         r:{
-          angleLines:{color:'rgba(100,100,100,0.3)'},
-          grid:{color:'rgba(120,120,120,0.2)'},
-          pointLabels:{color:'rgb(40,40,40)',font:{size:14,weight:'bold'}},
-          ticks:{display:false,min:0,max:100,stepSize:20}
+          angleLines:{color:'rgba(80,80,80,0.3)'},
+          grid:{color:'rgba(150,150,150,0.2)'},
+          pointLabels:{color:'rgb(30,30,30)',font:{size:14,weight:'bold'}},
+          ticks:{display:true, min:0, max:100, stepSize:20, color:'rgb(50,50,50)'}
         }
       }
     }
-  }" width="480" height="480" alt="enhanced focus radar graph">
+  }" width="480" height="480" alt="Focus Radar Graph">
 </p>
 
 ---
@@ -91,11 +91,11 @@ React ▓▓▓▓▓▓▓▓░░░░░░░░ 24%
 Strategy & Management ▓▓▓▓░░░░░░░░░░░░░ 12%  
 Research & Design ▓▓░░░░░░░░░░░░ 6%  
 
-> Precision builds trust. Clarity builds impact.
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQK8c9xX3QO6s/giphy.gif" width="380" alt="small fun coding visual">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="220" alt="coding work visual">
 </p>
+
+> Precision builds trust. Clarity builds impact.
 
 ---
 
@@ -113,7 +113,7 @@ Research & Design ▓▓░░░░░░░░░░░░ 6%
 </div>
 
 <p align="center">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="380" alt="funny genz coding meme">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="380" alt="funny genz coding meme">
 </p>
 
 <p align="center">
