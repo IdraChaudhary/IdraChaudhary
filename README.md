@@ -1,21 +1,21 @@
-<!-- Intro Visual -->
+<!-- Fun Intro Visual -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="70%" alt="innovation flow">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="70%" alt="innovation flow">
 </p>
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Hey,+I'm+Idra.;Engineer+%7C+Data,+Design+%26+Program+Manager.;Building+Systems+That+Think,+Scale,+and+Simplify.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Hey,+I'm+Idra.;Engineer+%7C+Data,+Design+%26+Program+Manager.;Building+Systems+That+Think,+Scale,+and+Simplify.;Sometimes+I+debug+life+like+code">
 </p>
 
 ---
 
 ### About Me
-I’m **Idra Chaudhary**, an engineer and program manager who thrives where **data meets design** and **logic meets leadership**.  
-I build systems that think — structured, scalable, and human-focused.  
-Every system I design starts with a simple principle: **clarity over complexity.**  
+I’m **Idra Chaudhary** — an engineer, program manager, and occasional caffeine-fueled philosopher.  
+I thrive where **data meets design**, and **logic meets leadership**.  
+My mantra: **clarity over complexity** — in code, systems, and life.  
 
-> Systems that make sense, stay relevant.
+> Systems that make sense, stay relevant. Systems that don’t, break silently. 😎
 
 ---
 
@@ -23,8 +23,8 @@ Every system I design starts with a simple principle: **clarity over complexity.
 
 - **Program Strategy:** aligning execution with measurable outcomes  
 - **AI & Automation:** building adaptive, interpretable intelligence  
-- **System Architecture:** simplifying the complex through scalable design  
-- **Creative Engineering:** merging reasoning with usability  
+- **System Architecture:** simplifying complex systems at scale  
+- **Creative Engineering:** reasoning meets usability, sprinkled with fun  
 
 <p align="center">
   <img src="https://quickchart.io/chart?c={
@@ -34,29 +34,29 @@ Every system I design starts with a simple principle: **clarity over complexity.
       datasets:[{
         label:'Focus',
         data:[92,88,84,80,76],
-        backgroundColor:'rgba(0,255,220,0.2)',
+        backgroundColor:'rgba(0,255,220,0.3)',
         borderColor:'rgb(0,220,255)',
         borderWidth:3,
         pointBackgroundColor:'rgb(0,200,255)',
         pointBorderColor:'rgb(0,255,220)',
-        pointRadius:6,
-        pointHoverRadius:8
+        pointRadius:8,
+        pointHoverRadius:10
       }]
     },
     options:{
       responsive:true,
-      maintainAspectRatio:false,
+      maintainAspectRatio:true,
       plugins:{legend:{display:false}},
       scales:{
         r:{
           angleLines:{color:'rgba(100,100,100,0.3)'},
           grid:{color:'rgba(120,120,120,0.2)'},
-          pointLabels:{color:'rgb(40,40,40)',font:{size:13,weight:'bold'}},
-          ticks:{display:false}
+          pointLabels:{color:'rgb(40,40,40)',font:{size:14,weight:'bold'}},
+          ticks:{display:false,min:0,max:100,stepSize:20}
         }
       }
     }
-  }" width="420" height="420" alt="enhanced focus radar graph">
+  }" width="480" height="480" alt="enhanced focus radar graph">
 </p>
 
 ---
@@ -64,7 +64,7 @@ Every system I design starts with a simple principle: **clarity over complexity.
 ### Tech Stack
 
 **Languages:** Python · C++ · Java · SQL · JavaScript · TypeScript  
-**AI & Data:** Pandas · NumPy · Scikit-learn · TensorFlow · Power BI · Tableau  
+**AI & Data:** Pandas · NumPy · Scikit-learn · TensorFlow · Power BI · Tableau · LIMS Technology  
 **Backend:** Flask · FastAPI · Node.js  
 **Frontend:** React · Vite · TailwindCSS · Firebase  
 **Databases:** PostgreSQL · Oracle · MongoDB  
@@ -72,7 +72,7 @@ Every system I design starts with a simple principle: **clarity over complexity.
 **Workspace:** Notion · Slack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,react,tailwind,postgresql,tensorflow,figma,git" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,react,tailwind,postgresql,tensorflow,figma,git,labs" width="420" />
 </p>
 
 <p align="center">
@@ -92,6 +92,10 @@ Strategy & Management ▓▓▓▓░░░░░░░░░░░░░ 12%
 Research & Design ▓▓░░░░░░░░░░░░ 6%  
 
 > Precision builds trust. Clarity builds impact.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQK8c9xX3QO6s/giphy.gif" width="380" alt="small fun coding visual">
+</p>
 
 ---
 
@@ -119,5 +123,5 @@ Research & Design ▓▓░░░░░░░░░░░░ 6%
 ---
 
 <p align="center">
-<b>Think clearly. Build deliberately. Lead intelligently — powered by data, design, and chai.</b>
+<b>Think clearly. Build deliberately. Lead intelligently — powered by data, design, LIMS, and chai.</b>
 </p>
