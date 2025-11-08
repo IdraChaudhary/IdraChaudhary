@@ -10,7 +10,7 @@
 
 ---
 
-### About Me  
+### About Me
 I’m **Idra Chaudhary**, an engineer and program manager who thrives where **data meets design** and **logic meets leadership**.  
 I build systems that think — structured, scalable, and human-focused.  
 Every system I design starts with a simple principle: **clarity over complexity.**  
@@ -19,7 +19,7 @@ Every system I design starts with a simple principle: **clarity over complexity.
 
 ---
 
-### Focus Areas  
+### Focus Areas
 
 - **Program Strategy:** aligning execution with measurable outcomes  
 - **AI & Automation:** building adaptive, interpretable intelligence  
@@ -27,12 +27,42 @@ Every system I design starts with a simple principle: **clarity over complexity.
 - **Creative Engineering:** merging reasoning with usability  
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['AI','System%20Design','Program%20Mgmt','Product%20Thinking','Data%20Strategy'],datasets:[{label:'Focus',data:[92,88,84,80,76],backgroundColor:'rgba(0,200,255,0.25)',borderColor:'rgb(0,220,255)',pointBackgroundColor:'rgb(0,255,220)'}]},options:{plugins:{legend:{display:false}},scales:{r:{angleLines:{color:'rgba(70,70,70,0.4)'},grid:{color:'rgba(120,120,120,0.4)'},pointLabels:{color:'rgb(40,40,40)',font:{size:12,weight:'bold'}},ticks:{display:false}}}}}" width="420" alt="focus radar graph">
+  <img src="https://quickchart.io/chart?c={
+    type:'radar',
+    data:{
+      labels:['AI','System Design','Program Mgmt','Product Thinking','Data Strategy'],
+      datasets:[{
+        label:'Focus',
+        data:[92,88,84,80,76],
+        backgroundColor:'rgba(0,255,220,0.2)',
+        borderColor:'rgb(0,220,255)',
+        borderWidth:3,
+        pointBackgroundColor:'rgb(0,200,255)',
+        pointBorderColor:'rgb(0,255,220)',
+        pointRadius:6,
+        pointHoverRadius:8
+      }]
+    },
+    options:{
+      responsive:true,
+      maintainAspectRatio:false,
+      plugins:{legend:{display:false}},
+      scales:{
+        r:{
+          angleLines:{color:'rgba(100,100,100,0.3)'},
+          grid:{color:'rgba(120,120,120,0.2)'},
+          pointLabels:{color:'rgb(40,40,40)',font:{size:13,weight:'bold'}},
+          ticks:{display:false}
+        }
+      }
+    }
+  }" width="420" height="420" alt="enhanced focus radar graph">
 </p>
 
 ---
 
-### Tech Stack  
+### Tech Stack
+
 **Languages:** Python · C++ · Java · SQL · JavaScript · TypeScript  
 **AI & Data:** Pandas · NumPy · Scikit-learn · TensorFlow · Power BI · Tableau  
 **Backend:** Flask · FastAPI · Node.js  
@@ -54,37 +84,36 @@ Every system I design starts with a simple principle: **clarity over complexity.
 
 ---
 
-### Work Energy  
+### Work Energy
+
 Python ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 58%  
 React ▓▓▓▓▓▓▓▓░░░░░░░░ 24%  
 Strategy & Management ▓▓▓▓░░░░░░░░░░░░░ 12%  
-Research & Design ▓▓░░░░░░░░░░░░ 6%
+Research & Design ▓▓░░░░░░░░░░░░ 6%  
 
 > Precision builds trust. Clarity builds impact.
 
 ---
 
-### Connect  
+### Connect
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center"><a href="mailto:idrachaudhary2003@gmail.com"><b>Email</b></a><br><sub>idrachaudhary2003@gmail.com</sub></td>
-<td align="center"><a href="https://www.linkedin.com/in/idra-chaudhary/"><b>LinkedIn</b></a><br><sub>in/idra-chaudhary</sub></td>
-<td align="center"><a href="https://github.com/IdraChaudhary"><b>GitHub</b></a><br><sub>github.com/IdraChaudhary</sub></td>
-<td align="center"><a href="#"><b>Portfolio</b></a><br><sub>coming soon...</sub></td>
-</tr>
+<table> 
+<tr> 
+<td align="center"><a href="mailto:idrachaudhary2003@gmail.com"><b>Email</b></a><br><sub>idrachaudhary2003@gmail.com</sub></td> 
+<td align="center"><a href="https://www.linkedin.com/in/idra-chaudhary/"><b>LinkedIn</b></a><br><sub>in/idra-chaudhary</sub></td> 
+<td align="center"><a href="https://github.com/IdraChaudhary"><b>GitHub</b></a><br><sub>github.com/IdraChaudhary</sub></td> 
+<td align="center"><a href="#"><b>Portfolio</b></a><br><sub>coming soon...</sub></td> 
+</tr> 
 </table>
-
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="380" alt="funny genz coding meme">
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="380" alt="funny genz coding meme">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✨%20Let's_Build_Something-Insightful_|_Human_|_Scalable-000000?style=for-the-badge&logo=vercel&logoColor=00FFF0&labelColor=0A0A0A">
+<img src="https://img.shields.io/badge/✨%20Let's_Build_Something-Insightful_|_Human_|_Scalable-000000?style=for-the-badge&logo=vercel&logoColor=00FFF0&labelColor=0A0A0A">
 </p>
 
 ---
