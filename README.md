@@ -1,6 +1,6 @@
 <!-- Intro Visual -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="70%" alt="innovation">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="70%" alt="innovation flow">
 </p>
 
 <!-- Typing Intro -->
@@ -11,18 +11,25 @@
 ---
 
 ### About Me  
-I’m **Idra Chaudhary**, an engineer and program manager who blends **data logic**, **design sense**, and **strategic clarity** to build systems that are both smart and human.  
-I believe that great tech starts with empathy and ends with precision — and that the best solutions are the ones that make you stop and think, “That just makes sense.”  
+I’m **Idra Chaudhary**, an engineer and program manager who thrives at the intersection of **data, design, and decision-making**.  
+I build systems that think — using structure, clarity, and curiosity as my core tools.  
+Whether it’s optimizing a data pipeline or architecting a product flow, I approach every problem with the same logic:  
+**understand deeply, design clearly, and execute deliberately.**
 
-> Clean logic. Sharp vision. Always with chai in hand.
+> Logic builds structure. Design gives it purpose.
 
 ---
 
 ### Focus Areas  
-- **Program Management:** bridging engineering execution with strategic intent  
-- **AI & Data Systems:** building intelligent workflows that evolve with context  
-- **System Architecture:** designing for clarity, not complexity  
-- **Creative Engineering:** where usability meets scalability  
+
+- **Program Strategy:** aligning engineering execution with organizational goals  
+- **AI & Automation:** developing interpretable, adaptive systems for real impact  
+- **System Architecture:** building for clarity, maintainability, and future scale  
+- **Creative Engineering:** fusing product sense with technical precision  
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['AI','System Design','Program Mgmt','Product Thinking','Data Strategy'],datasets:[{label:'Focus Distribution',data:[85,90,80,75,70],backgroundColor:'rgba(0,196,255,0.2)',borderColor:'#00C4FF'}]},options:{scale:{angleLines:{color:'#333'},gridLines:{color:'#555'},ticks:{display:false},pointLabels:{fontColor:'#999'}}}}" width="400" alt="focus graph">
+</p>
 
 ---
 
@@ -33,19 +40,17 @@ I believe that great tech starts with empathy and ends with precision — and th
 **Frontend:** React · Vite · TailwindCSS · Firebase  
 **Databases:** PostgreSQL · Oracle · MongoDB  
 **Tools:** Git · VS Code · Figma · Google Analytics  
-**Program Tools:** Notion · Jira  
+**Workspace:** Notion · Slack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi,react,tailwind,postgresql,tensorflow,figma,git" />
 </p>
 
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Engineer_×_Program_Manager-Strategic_Builder-1E1E1E?style=for-the-badge&logo=codepen&logoColor=00C4FF">
-  <img src="https://img.shields.io/badge/Data_|_AI_|_System_Design-Creative_Execution-222222?style=for-the-badge&logo=python&logoColor=yellow">
-  <img src="https://img.shields.io/badge/Workflow-Clean_|_Consistent_|_Chai_Powered-0B3D91?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Mindset-Think%20→%20Structure%20→%20Deliver-2E8B57?style=for-the-badge&logo=figma">
+  <img src="https://img.shields.io/badge/Data_|_AI_|_Systems-Creative_Execution-111111?style=for-the-badge&logo=python&logoColor=yellow">
+  <img src="https://img.shields.io/badge/Workflow-Structured_|_Human_|_Scalable-0B3D91?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Fueled_By-Chai_&_Curiosity-orange?style=for-the-badge&logo=tea&logoColor=white">
 </p>
 
 ---
@@ -56,11 +61,15 @@ React ▓▓▓▓▓▓▓▓░░░░░░░░ 24%
 Strategy & Management ▓▓▓▓░░░░░░░░░░░░░ 12%  
 Research & Design ▓▓░░░░░░░░░░░░ 6%
 
-> Smart architecture is half logic, half instinct.
+> Great systems run on clarity — not chaos.
 
 ---
 
 ### Connect  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjU2YjZzNW9mZjZ2OHhhdTNrcTVvM3Jhb3o2cGphNnVwOG5wdmlmYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="320" alt="funny tech meme">
+</p>
 
 <div align="center">
 
@@ -76,15 +85,14 @@ Research & Design ▓▓░░░░░░░░░░░░ 6%
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5zcWw2dzZnd2p5MGtxdGE0cGdjbXF0a2ptdmt2Z2YzZjY2NDFzcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Zt481isNVuQI1l6/giphy.gif" width="350" alt="funny meme connect">
+  <img src="https://img.shields.io/badge/Let's_Build_Something-Insightful_|_Human_|_Scalable-1E1E1E?style=for-the-badge&logo=vercel&logoColor=00C4FF">
 </p>
 
 ---
 
 <p align="center">
-<b>Think deeply. Build deliberately. Lead intelligently — with structure, data, and chai.</b>
+<b>Think clearly. Build deliberately. Lead intelligently — powered by data, design, and chai.</b>
 </p>
-
 
 
 
