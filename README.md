@@ -84,7 +84,7 @@ Research & Design ▓▓░░░░░░░░░░░░ 6%
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✨%20Let's_Build_Something-Insightful_|_Human_|_Scalable-1E1E1E?style=for-the-badge&logo=vercel&logoColor=00C4FF&labelColor=000000">
+  <img src="https://media.giphy.com/media/3o6fJbnN8uC5nP38py/giphy.gif" width="360" alt="funny coding meme">
 </p>
 
 ---
