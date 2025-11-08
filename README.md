@@ -15,7 +15,7 @@ I’m **Idra Chaudhary**, an engineer and program manager who thrives at the int
 I build systems that think — powered by structure, clarity, and curiosity.  
 From designing architectures to leading data-driven products, I believe great systems are built where **logic meets intent**.  
 
-> Build what makes sense — then make it scale.
+> Build with purpose. Design with empathy. Scale with reason
 
 ---
 
