@@ -60,7 +60,7 @@ React ▓▓▓▓▓▓▓▓░░░░░░░░ 24%
 Strategy & Management ▓▓▓▓░░░░░░░░░░░░░ 12%  
 Research & Design ▓▓░░░░░░░░░░░░ 6%
 
-> Precision makes systems human.
+
 
 ---
 
@@ -86,7 +86,7 @@ Research & Design ▓▓░░░░░░░░░░░░ 6%
 <p align="center">
 <img src="https://img.shields.io/badge/✨%20Let's_Build_Something-Insightful_|_Human_|_Scalable-000000?style=for-the-badge&logo=vercel&logoColor=00FFF0&labelColor=0A0A0A">
 </p>
----
+
 
 <p align="center">
 <b>Think clearly. Build deliberately. Lead intelligently — powered by data, design, and chai.</b>
