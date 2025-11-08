@@ -5,26 +5,25 @@
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Hey,+I'm+Idra.;Engineer+%7C+Data,+Design+%26+Program+Manager.;Building+Systems+That+Think,+Scale,+and+Simplify.;Sometimes+I+debug+life+like+code">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=500&color=00FFD4&center=true&vCenter=true&width=900&lines=Hey,+I'm+Idra.;Engineer+%7C+Data+%26+Program+Manager.;I+Build+Systems+That+Think,+Scale+%26+Simplify.;Debugging+Life+Like+Code">
 </p>
 
 ---
 
 ### About Me
-I’m **Idra Chaudhary** — an engineer, program manager, and caffeine enthusiast.  
-I thrive where **data meets design** and **logic meets leadership**.  
-My mantra: **clarity over complexity** — in code, systems, and life.  
+I’m **Idra Chaudhary** — engineer, program manager, AI enthusiast, and chai-powered problem solver.  
+I thrive where **data meets design**, and **logic meets leadership**.  
+My mantra: **clarity over complexity**, because messy systems break silently.  
 
-> Systems that make sense, stay relevant. Systems that don’t, break silently. 😎
+> “If it doesn’t make sense, I rewrite it — in code or in life.” 😎  
 
 ---
 
 ### Focus Areas
-
 - **Program Strategy:** aligning execution with measurable outcomes  
 - **AI & Automation:** building adaptive, interpretable intelligence  
 - **System Architecture:** simplifying complex systems at scale  
-- **Creative Engineering:** reasoning meets usability  
+- **Creative Engineering:** reasoning + usability + fun innovation  
 
 <p align="center">
   <img src="https://quickchart.io/chart?c={
@@ -52,7 +51,7 @@ My mantra: **clarity over complexity** — in code, systems, and life.
           angleLines:{color:'rgba(80,80,80,0.3)'},
           grid:{color:'rgba(150,150,150,0.2)'},
           pointLabels:{color:'rgb(30,30,30)',font:{size:14,weight:'bold'}},
-          ticks:{display:true, min:0, max:100, stepSize:20, color:'rgb(50,50,50)'}
+          ticks:{display:true,min:0,max:100,stepSize:20,color:'rgb(50,50,50)'}
         }
       }
     }
@@ -62,7 +61,6 @@ My mantra: **clarity over complexity** — in code, systems, and life.
 ---
 
 ### Tech Stack
-
 **Languages:** Python · C++ · Java · SQL · JavaScript · TypeScript  
 **AI & Data:** Pandas · NumPy · Scikit-learn · TensorFlow · Power BI · Tableau · LIMS Technology  
 **Backend:** Flask · FastAPI · Node.js  
@@ -92,7 +90,7 @@ Strategy & Management ▓▓▓▓░░░░░░░░░░░░░ 12%
 Research & Design ▓▓░░░░░░░░░░░░ 6%  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="220" alt="coding work visual">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="220" alt="work visual">
 </p>
 
 > Precision builds trust. Clarity builds impact.
