@@ -28,7 +28,7 @@ Whether it’s optimizing a data pipeline or architecting a product flow, I appr
 - **Creative Engineering:** fusing product sense with technical precision  
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['AI','System Design','Program Mgmt','Product Thinking','Data Strategy'],datasets:[{label:'Focus Distribution',data:[85,90,80,75,70],backgroundColor:'rgba(0,196,255,0.2)',borderColor:'#00C4FF'}]},options:{scale:{angleLines:{color:'#333'},gridLines:{color:'#555'},ticks:{display:false},pointLabels:{fontColor:'#999'}}}}" width="400" alt="focus graph">
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['AI','System%20Design','Program%20Mgmt','Product%20Thinking','Data%20Strategy'],datasets:[{label:'Focus%20Balance',data:[90,85,80,75,70],backgroundColor:'rgba(0,196,255,0.2)',borderColor:'%2300C4FF',pointBackgroundColor:'%2300C4FF'}]},options:{plugins:{legend:{display:false}},scales:{r:{angleLines:{color:'%23333'},grid:{color:'%23555'},pointLabels:{color:'%23999',font:{size:12}}}}}}" width="400" alt="focus graph">
 </p>
 
 ---
@@ -67,10 +67,6 @@ Research & Design ▓▓░░░░░░░░░░░░ 6%
 
 ### Connect  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjU2YjZzNW9mZjZ2OHhhdTNrcTVvM3Jhb3o2cGphNnVwOG5wdmlmYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="320" alt="funny tech meme">
-</p>
-
 <div align="center">
 
 <table>
@@ -83,6 +79,10 @@ Research & Design ▓▓░░░░░░░░░░░░ 6%
 </table>
 
 </div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2UxZnNoam1oczhra3Z0M2Vibnp4ZzI2ZmdyZ2JvOWt2czZqNmxkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="380" alt="funny tech meme">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Let's_Build_Something-Insightful_|_Human_|_Scalable-1E1E1E?style=for-the-badge&logo=vercel&logoColor=00C4FF">
