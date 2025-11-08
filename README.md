@@ -12,10 +12,10 @@
 
 ### About Me  
 I’m **Idra Chaudhary**, an engineer and program manager who thrives where **data meets design** and **logic meets leadership**.  
-I build systems that think — structured, scalable, and built with intent.  
-To me, clarity is as critical as creativity; it’s how I turn ideas into intelligent architecture.  
+I build systems that think — structured, scalable, and human-focused.  
+Every system I design starts with a simple principle: **clarity over complexity.**  
 
-> Smart systems aren’t loud — they’re simply understood.
+> Systems that make sense, stay relevant.
 
 ---
 
@@ -23,11 +23,11 @@ To me, clarity is as critical as creativity; it’s how I turn ideas into intell
 
 - **Program Strategy:** aligning execution with measurable outcomes  
 - **AI & Automation:** building adaptive, interpretable intelligence  
-- **System Architecture:** simplifying the complex through smart design  
-- **Creative Engineering:** merging reasoning with user understanding  
+- **System Architecture:** simplifying the complex through scalable design  
+- **Creative Engineering:** merging reasoning with usability  
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['AI','System%20Design','Program%20Mgmt','Product%20Thinking','Data%20Strategy'],datasets:[{label:'Focus%20Balance',data:[92,88,85,80,75],backgroundColor:'rgba(0,255,204,0.2)',borderColor:'rgb(0,255,204)',pointBackgroundColor:'rgb(0,200,255)'}]},options:{plugins:{legend:{display:false}},scales:{r:{angleLines:{color:'rgba(60,60,60,0.4)'},grid:{color:'rgba(80,80,80,0.4)'},pointLabels:{color:'rgb(40,40,40)',font:{size:12,weight:'bold'}},ticks:{display:false}}}}}" width="420" alt="focus radar graph">
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['AI','System%20Design','Program%20Mgmt','Product%20Thinking','Data%20Strategy'],datasets:[{label:'Focus',data:[92,88,84,80,76],backgroundColor:'rgba(0,200,255,0.25)',borderColor:'rgb(0,220,255)',pointBackgroundColor:'rgb(0,255,220)'}]},options:{plugins:{legend:{display:false}},scales:{r:{angleLines:{color:'rgba(70,70,70,0.4)'},grid:{color:'rgba(120,120,120,0.4)'},pointLabels:{color:'rgb(40,40,40)',font:{size:12,weight:'bold'}},ticks:{display:false}}}}}" width="420" alt="focus radar graph">
 </p>
 
 ---
@@ -60,7 +60,7 @@ React ▓▓▓▓▓▓▓▓░░░░░░░░ 24%
 Strategy & Management ▓▓▓▓░░░░░░░░░░░░░ 12%  
 Research & Design ▓▓░░░░░░░░░░░░ 6%
 
-> Systems that make sense, scale faster.
+> Precision builds trust. Clarity builds impact.
 
 ---
 
@@ -80,7 +80,7 @@ Research & Design ▓▓░░░░░░░░░░░░ 6%
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6fJbnN8uC5nP38py/giphy.gif" width="360" alt="Sheldon Cooper meme">
+  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="380" alt="funny genz coding meme">
 </p>
 
 <p align="center">
