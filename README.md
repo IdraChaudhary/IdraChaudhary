@@ -80,13 +80,12 @@ Research & Design ▓▓░░░░░░░░░░░░ 6%
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc2eTZtd2t2eXkwZTV6bndmMWZxOXM0dTRpMzJwaWJ3NGU5OGc4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kbRb4eyCNC0aMz5x68/giphy.gif" width="350" alt="funny tech meme - code chaos calm">
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="380" alt="funny genz coding meme">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6fJbnN8uC5nP38py/giphy.gif" width="360" alt="funny coding meme">
+<img src="https://img.shields.io/badge/✨%20Let's_Build_Something-Insightful_|_Human_|_Scalable-000000?style=for-the-badge&logo=vercel&logoColor=00FFF0&labelColor=0A0A0A">
 </p>
-
 ---
 
 <p align="center">
