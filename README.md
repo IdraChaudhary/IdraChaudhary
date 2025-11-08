@@ -1,6 +1,6 @@
-<!-- Futuristic Intro GIF -->
+<!-- Futuristic Intro -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGF3b3B0YmowNDF6NXA4ZmRzOHBnbnh6bHJ6MWpjN2N3eW4zNjRzZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="80%" alt="innovation">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="70%" alt="Innovation flow">
 </p>
 
 <!-- Typing Intro -->
@@ -11,29 +11,25 @@
 ---
 
 ### About Me  
-I’m **Idra Chaudhary**, an engineer and program manager who builds systems that make sense.  
-My work blends **engineering depth**, **data intelligence**, and **design reasoning** — turning complex problems into clear, scalable solutions.  
-I focus on outcomes that are measurable, maintainable, and meaningful.  
+I’m **Idra Chaudhary**, an engineer and program manager who builds systems that think — and make people think.  
+My approach blends **data logic**, **design clarity**, and **strategic execution** to turn complex challenges into simple, intelligent solutions.  
+I thrive in spaces where **structure meets creativity**, and where precision powers innovation.  
 
-> Tech doesn’t have to shout to make an impact — it just needs to work beautifully.
+> Good systems don’t just function — they communicate.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRjcXlmMThmcjlxNjF2dzIxNTB5ZXZ3MjVla3pqNXpsN2dhbXFoeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26n6WywJyh39n1pBu/giphy.gif" width="500" alt="system thinking">
+  <img src="https://media.giphy.com/media/Q8IhW9XU5kCYE/giphy.gif" width="300" alt="chai moment">
 </p>
 
-<p align="center"><b>Strong logic, clean design, and one cup of chai at a time.</b></p>
+<p align="center"><b>Clean code. Clear vision. Chai-driven decisions.</b></p>
 
 ---
 
 ### Focus Areas  
-- **Program Management:** structuring clarity between data, design, and delivery  
-- **AI & Data Systems:** creating interpretable and adaptive intelligence  
-- **Engineering Leadership:** ensuring what’s built can evolve — and scale  
-- **System Architecture:** designing frameworks that think before they execute  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzN3Z3hyYXBqZ3lqODI5cmtvOXBnaGZrY2E0bWcwajVoZnJlcmF6aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fAnEC88LccN7a/giphy.gif" width="70%" alt="focus meme">
-</p>
+- **Program Management:** bridging engineering execution with data-driven strategy  
+- **AI & Automation:** building models and workflows that adapt intelligently  
+- **System Architecture:** scaling solutions that are simple to maintain and easy to reason about  
+- **Creative Engineering:** designing experiences that make tech feel human  
 
 ---
 
@@ -43,15 +39,15 @@ I focus on outcomes that are measurable, maintainable, and meaningful.
 **Backend:** Flask · FastAPI · Node.js  
 **Frontend:** React · Vite · TailwindCSS · Firebase  
 **Databases:** PostgreSQL · Oracle · MongoDB  
-**Tools & Operations:** Docker · Git · Postman · Figma · Google Analytics  
-**Program Tools:** Jira · Notion · Asana · Miro · Lucidchart  
+**Tools & Operations:** Git · VS Code · Figma · Google Analytics  
+**Program Tools:** Notion · Jira  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,react,tailwind,postgresql,tensorflow,figma,git,docker" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,react,tailwind,postgresql,tensorflow,figma,git" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="70%" alt="developer humor">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjgzOTkxOW1hcW56c3A4YmtuMXhnb3FvdzQ2cDFpZnRoY3hlNjczZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT5LMHxhOfscxPfIfm/giphy.gif" width="55%" alt="developer humor">
 </p>
 
 ---
@@ -59,10 +55,10 @@ I focus on outcomes that are measurable, maintainable, and meaningful.
 ### Badges of Focus  
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Engineer_×_Program_Manager-blue?style=for-the-badge&logo=visualstudiocode">
-  <img src="https://img.shields.io/badge/Focus-AI_|_Systems_|_Leadership-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Mindset-Structure_|_Strategy_|_Scalability-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Powered_By-Chai-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Building_Something_New-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Core-Focus:_AI_|_Data_|_Systems-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Mindset-Analytical_|_Creative_|_Strategic-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Fuel-Chai-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Currently-Building_Smart_Systems-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Open_To-Collaboration-yellow?style=for-the-badge">
 </p>
 
@@ -74,53 +70,38 @@ React ▓▓▓▓▓▓▓▓░░░░░░░░ 24%
 Strategy & Management ▓▓▓▓░░░░░░░░░░░░░ 12%  
 Research & Design ▓▓░░░░░░░░░░░░ 6%
 
-> Code defines structure. Leadership defines direction.
+> Precision builds trust. Execution builds credibility.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVhdXQxZGdzM3BrY2c2OTcyY3N6dDBtbmVqNWh6bm1iYjV0cnZzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="60%" alt="debug meme">
-</p>
-
----
-
-### Work Philosophy  
-- Simplify complexity, never oversimplify meaning.  
-- Good leadership makes systems scalable — and people capable.  
-- Design decisions should always be visible in the data.  
-- Precision is the art of saying more with less.  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="60%" alt="team clarity">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40%" alt="debug meme">
 </p>
 
 ---
 
 ### Connect  
 <p align="center">
-  <a href="mailto:idrachaudhary2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-idrachaudhary2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/idra-chaudhary/">
-    <img src="https://img.shields.io/badge/LinkedIn-Idra%20Chaudhary-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/IdraChaudhary">
-    <img src="https://img.shields.io/badge/GitHub-IdraChaudhary-black?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-lightgrey?style=for-the-badge&logo=firefox&logoColor=white">
-  </a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3djN3k4N3EydnRwOHg2bnF0aHBna3cwNTQ1a2R3djB3MWUybTNzNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="220" alt="networking gif">
 </p>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><a href="mailto:idrachaudhary2003@gmail.com"><b>📩 Email</b></a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/idra-chaudhary/"><b>🔗 LinkedIn</b></a></td>
+      <td align="center"><a href="https://github.com/IdraChaudhary"><b>💻 GitHub</b></a></td>
+      <td align="center"><a href="#"><b>🌐 Portfolio (Coming Soon)</b></a></td>
+    </tr>
+  </table>
+</div>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/l1J9u3TZfpmeDLkD6/giphy.gif" width="65%" alt="funny connect meme">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZqZXBhd3cxNmE5MWNqaWtzZnRza3o5cjl4bmdsa3Z3Y2V2cmU4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26AHONQ79FdWZhAI0/giphy.gif" width="220" alt="small cool tech gif">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZjd2l6Y3Z2bnZvdHZ3ZGh2bHplcG02NWhodnoyMWVvNXRrYzB0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26n6WywJyh39n1pBu/giphy.gif" width="80%" alt="ending visual">
+<b>Think clearly. Build deliberately. Lead intelligently — always with chai in hand.</b>
 </p>
 
-<p align="center">
-<b>Think clearly. Build deliberately. Lead intelligently — fueled by chai and curiosity.</b>
-</p>
 
